@@ -15,3 +15,5 @@ func GetBio() {
     " My hobbies":      "Music,Singing,Drawing,Traveling,Motobike,PUBG,AOV,Sneaker,Fashion,Tobacco,Vape,..."
 }
 ```
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vusang1303&langs_count=10&theme=tokyonight&layout=compact" alt="" /></p>
