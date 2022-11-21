@@ -8,6 +8,14 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 --->
+
 - 🌱 I’m currently learning C++,PYTHON,JAVA,HTML,CSS,JS,PHP,...
 - 😄 My hobbies are Music,Singing,Drawing,Traveling,Motobike,PUBG,AOV,Sneaker,Fashion,Vape,...
 - 🔭 I’m currently working on PTIT Hanoi
+<br>
+<div>
+<img style="width:45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangvu1303&theme=dracula" alt="" />
+<img style="width:45%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sangvu1303&theme=dracula&utcOffset=8" alt="" />
+<br>
+<img style="width:92%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangvu1303&theme=dracula" alt="" />
+</div>
