@@ -25,10 +25,10 @@ func GetBio() {
 
 ### Contact with me
 <div align="left">
-    <a href="https://www.facebook.com/vusang1332000" target="blank">
+    <a href="https://www.facebook.com/vusang1332000" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=""                  height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/18.gnas/" target="blank">
+    <a href="https://www.instagram.com/18.gnas/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=""                  height="30" width="40" />
     </a>
 </div>
