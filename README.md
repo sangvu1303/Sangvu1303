@@ -31,9 +31,6 @@ func GetBio() {
     <a href="https://www.instagram.com/18.gnas/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=""                  height="30" width="40" />
     </a>
-    <a href="tel:0779258189">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt=""                  height="30" width="40" />
-    </a>
 </div>
 
 
