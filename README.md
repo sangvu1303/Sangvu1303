@@ -1,5 +1,7 @@
 <h1 align="center">Hi👋, I'm Vũ Quang Sáng 
     <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+    <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+    <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
 
 ```golang
@@ -16,7 +18,7 @@ func GetBio() {
 }
 ```
 <hr>
-<h3>Github</h3>
+<h3 align="center">Github</h3>
 <div align="center">
     <img style="width:45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangvu1303&theme=2077" alt="" />
     <img style="width:45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sangvu1303&theme=2077" alt="" />
@@ -26,8 +28,8 @@ func GetBio() {
     <p align="center"><img src="https://profile-counter.glitch.me/{sangvu1303}/count.svg" alt=""></p>
 </div>
 <hr>
-<h3> Contact with me </h3>
-<div align="left">
+<h3 align="center"> Connect with me </h3>
+<div align="center">
     <a href="https://www.facebook.com/vusang1332000" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=""                  height="30" width="40" />
     </a>
