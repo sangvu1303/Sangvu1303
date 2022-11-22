@@ -1,6 +1,4 @@
-### Hello Homies 👋
-
-<h1 align="center">About me</h1>
+### Vũ Quang Sáng
 
 ```golang
 package main
@@ -15,6 +13,7 @@ func GetBio() {
     " My hobbies":      "Music,Singing,Drawing,Traveling,Motobike,PUBG,AOV,Sneaker,Fashion,Tobacco,Vape,..."
 }
 ```
+### Github
 <div align="center">
     <img style="width:45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangvu1303&theme=2077" alt="" />
     <img style="width:45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sangvu1303&theme=2077" alt="" />
@@ -23,3 +22,18 @@ func GetBio() {
     <br>
     <p align="center"><img src="https://profile-counter.glitch.me/{sangvu1303}/count.svg" alt=""></p>
 </div>
+
+### Contact
+<h3 align="left">Connect with me:</h3>
+<div align="center">
+    <a href="https://www.facebook.com/vusang1332000" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=""                  height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/18.gnas/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=""                  height="30" width="40" />
+    </a>
+</div>
+
+
+
+
