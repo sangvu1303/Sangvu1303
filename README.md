@@ -23,9 +23,8 @@ func GetBio() {
     <p align="center"><img src="https://profile-counter.glitch.me/{sangvu1303}/count.svg" alt=""></p>
 </div>
 
-### Contact
-<h3 align="left">Connect with me:</h3>
-<div align="center">
+### Contact with me
+<div align="left">
     <a href="https://www.facebook.com/vusang1332000" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=""                  height="30" width="40" />
     </a>
