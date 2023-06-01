@@ -12,9 +12,9 @@ func GetBio() {
     " DoB":             "13/03/2000"
     " Village":       	"Xuân Trường,Nam Định"
     " Collage":         "PTIT Hanoi",
-    " Learning":        "C++,Arduino,Python,JAVA,HTML,CSS,JS,PHP,Angular,...",
-    " Ask me about":    "Basic Web design",
-    " My hobbies":      "Music,Singing,Drawing,Traveling,Motobike,PUBG,AOV,Sneaker,Fashion,Tobacco,Vape,..."
+    " Learning":        "C/C++,C#,Arduino,Python,front-end,back-end,...",
+    " Ask me about":    "Basic Code",
+    " My hobbies":      "Music,Singing,Traveling,PKL,PUBG,AOV,Sneaker,Fashion,Tobacco,VapePod and Coding :P"
 }
 ```
 <hr>
