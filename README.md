@@ -40,6 +40,8 @@ func GetBio() {
 <hr>
 <div align="center">
 <img  width="500" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif">
+<img  width="250" height="250" src="https://media.giphy.com/media/83akmSCDZtyoV0lerh/giphy.gif">
+<img  width="375" height="250" src="https://media.giphy.com/media/1hVi7JFFzplHW/giphy.gif">
 </div>
 <hr>
 
