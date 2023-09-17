@@ -54,6 +54,11 @@ func GetBio() {
     <img  width="375" height="250" src="https://media.giphy.com/media/1hVi7JFFzplHW/giphy.gif">
 </div>
 
+<div align="center">
+    <img  width="375" height="250" src="https://media.giphy.com/media/vP7Ylt9ByFqJ6SSwy2/giphy.gif">
+    <img  width="375" height="250" src="https://media.giphy.com/media/GfCaemm9bltYQFliLp/giphy.gif">
+</div>
+
 <hr>
 
 
