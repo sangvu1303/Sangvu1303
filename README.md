@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Vũ Quang Sáng 
-    <img height="40" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif">
-    <img height="40" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif">
-    <img height="40" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif">
+    <img height="40" src="https://i.giphy.com/media/amSNX7COfkXWEIQBsz/giphy.webp">
+    <img height="40" src="https://i.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.webp">
+    <img height="40" src="https://i.giphy.com/media/x8YjX77exapooAAwNc/giphy.webp">
 </h1>
 
 ```golang
