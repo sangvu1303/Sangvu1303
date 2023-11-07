@@ -1,7 +1,9 @@
-<h1 align="center">Hi👋, I'm Vũ Quang Sáng 
-    <img height="40" src="https://i.giphy.com/media/amSNX7COfkXWEIQBsz/giphy.webp">
-    <img height="40" src="https://i.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.webp">
-    <img height="40" src="https://i.giphy.com/media/x8YjX77exapooAAwNc/giphy.webp">
+<h1 align="center">
+    <img height="100" src="https://i.giphy.com/media/ujrj9aoOdNvXO/giphy.webp">
+        I'm Vũ Quang Sáng 
+    <img height="90" src="https://i.giphy.com/media/amSNX7COfkXWEIQBsz/giphy.webp">
+    <img height="90" src="https://i.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.webp">
+    <img height="90" src="https://i.giphy.com/media/x8YjX77exapooAAwNc/giphy.webp">
 </h1>
 
 ```golang
